@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AndroidCustomViewsTraining</string>
+
+    <!-- General/ common values -->
+    <string name="change">Change</string>
+    <string name="reset">Reset</string>
+
+    <!-- Custom fan control view values -->
+    <string name="fan_off">off</string>
+    <string name="fan_low">1</string>
+    <string name="fan_medium">2</string>
+    <string name="fan_high">3</string>
+    <string name="fan_control_title">Fan Control</string>
+
 </resources>
